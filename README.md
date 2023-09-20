@@ -1,4 +1,4 @@
-# at v1 - project Haar Cascade
+# at v1 - project
 
 
 ### 1. instalar miniconda ou anaconda
@@ -22,5 +22,5 @@
 <p> - conda create -n cv python=3.10</p>
 <p> - conda activate cv</p>
 
-### 5. baixar aquuivo:
+### 5. baixar arquivo:
 <p> https://pjreddie.com/media/files/yolov3.weights </p>
